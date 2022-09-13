@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+*{
+    margin:0;
+    padding:0;
+}
+
+#header{
+    background-color: #2959dc;
+    height: 100px;
+}
+
+#content{
+    background-color: #000000;
+    height: 400px;
+    color: #ffffff
+}
+
+#footer{
+    background-color: #ff69b4;
+    height: 100px;
+}
